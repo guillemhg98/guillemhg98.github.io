@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://guillemhg98.github.io/sitemap.xml
